@@ -1,0 +1,24 @@
+# php_dev
+php_dev
+
+
+PHP Course:
+
+16 November 2022:
+
+- Dowloading XAMPP (https://www.apachefriends.org/download.html)
+- Control Panel opens, click start on Apache
+- MySQL click on start.
+- On Apache panel click "admin", localhost window will open on browser.
+- Go to Local Disk (C:) find and click on xampp folder.
+- Open htdocs folder.
+- Click and open index.php file.
+- Here you can view the dashboard information.
+- Go back to htdocs folder and open dashboard folder.
+- Open index.html file.
+- In htdocs folder, create a folder and name it php_dev
+- Inside the php_dev folder make an index.php file.
+- Open the index.php file and type "This is the index page." Save and close.
+- Take C Drive path (C:/xampp/htdocs) and paste into browser and search the path.
+- Click and open php_dev.
+- Localhost path now is localhost/dev_php/
